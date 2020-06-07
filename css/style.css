@@ -1,0 +1,377 @@
+body, html{
+  overflow-x: hidden;
+  max-width: 100%;
+}
+
+.container {
+    max-width: 1363.2px;
+}
+
+nav{
+	background-color: #ff7014;
+}
+
+a, a:hover{
+	text-decoration: none!important;
+  	color: inherit;
+    cursor: pointer;
+}
+
+.logo{
+	height: 75px;
+	width: 80px;	
+}
+
+nav .nav-item{
+	padding: 0 10px;
+}
+
+nav a{
+	font-family: 'Comfortaa', cursive;
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.78;
+  letter-spacing: 0.45px;
+  text-align: center;
+  color: #ffffff!important;
+}
+
+.main-header{
+font-family: 'Playfair Display', serif;
+  font-size: 45px;
+  font-weight: bold;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.43;
+  letter-spacing: 1.88px;
+  text-align: center;
+  color: #ff7014;
+}
+
+button{
+	  border:none;
+  background-color: #ffff;
+  outline: none!important;
+}
+
+#main button{
+	font-family: 'Comfortaa', cursive;
+	border-radius: 5px;
+ 	background-color: #23b5ab;
+ 	font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 5;
+  letter-spacing: 0.45px;
+  text-align: center;
+  color: #ffffff;
+  padding: 0 25px;
+
+}
+
+.header-btn{
+	padding-top: 2.5rem;
+}
+
+.header-content-section{
+	padding-top: 100px;
+}
+
+#bg-img {
+    background-image: url(../images/main-header-bg.png);
+    position: relative;
+	height: 72rem;
+    width: 100%;
+    top: 5rem;
+    background-repeat: no-repeat;
+    background-size: cover;
+    object-fit: cover;
+}
+
+.main-header-img{
+	position: relative;
+	width: 45%;
+	bottom: 14rem;
+}
+
+#who-we-are{
+	margin-top: 6rem;
+}
+
+#who-we-are h4{
+	font-family: 'Comfortaa', cursive;
+	  font-size: 17px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.62;
+  letter-spacing: 0.65px;
+  text-align: center;
+  color: #4e4e4e;
+}
+
+#who-we-are .pt{
+	padding-top: 1rem;
+}
+
+#who-we-are .section-padding{
+	padding-top: 5rem;
+}
+
+#who-we-are .btn-1{
+	border-radius: 5px;
+  border: solid 1px #10b192;
+	font-family: 'Comfortaa', cursive;
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4;
+  letter-spacing: 0.55px;
+  text-align: center;
+  color: #10b192;
+  padding: 0 35px;
+}
+
+#who-we-are .btn-2{
+	  border-radius: 5px;
+  border: solid 1px #ff7014;
+	font-family: 'Comfortaa', cursive;
+  font-size: 13px;
+  font-weight: 600;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4;
+  letter-spacing: 0.55px;
+  text-align: center;
+color: #ff7014;
+  padding: 0 35px;
+}
+
+#who-we-are img {
+    position: relative;
+    width: 88%;
+    left: 15rem;
+    bottom: 4rem;
+}
+
+.who-we-are-links{
+	margin-top: 2rem;
+}
+
+.section-page-content{
+	padding-top: 2rem;
+}
+
+.page-header{
+	font-family: 'Playfair Display', serif;
+	 font-size: 45.5px;
+  font-weight: 800;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 1.49px;
+  text-align: left;
+  color: #525252;
+}
+
+.page-content{
+	font-family: 'Comfortaa', cursive;
+	 font-size: 16px;
+  font-weight: normal;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.76;
+  letter-spacing: 0.58px;
+  text-align: left;
+  color: #4e4e4e;
+}
+
+.worq-btn button{
+	border-radius: 5px;
+  background-color: #23b5ab;
+  font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4.5;
+  letter-spacing: 0.45px;
+  text-align: center;
+  color: #ffffff;
+  padding: 0 25px;
+  margin-top: 1.5rem;
+  cursor: pointer;
+}
+
+#we-stand-for {
+    background-color: #f7f6ee;
+    margin-top: 32rem;
+}
+
+#we-stand-for .section-padding {
+    padding: 25rem 0 0 0;
+}
+
+#gig-awaits .img-fluid{
+	max-width: 100%;
+    height: 40rem!important;
+}
+
+#gig-awaits .section-padding{
+	padding-bottom: 8rem;
+}
+
+#we-stand-for .img-fluid {
+    position: absolute;
+    top: 205rem;
+}
+
+#we-stand-for .stand-for-img{
+	max-width: 100%;
+	height: 39rem;
+}
+
+.stand-for-bottom{
+  position: relative;
+    top: 5rem;
+}
+
+.page-header-2{
+  font-family: 'Comfortaa', cursive;
+    font-size: 40px;
+  font-weight: 300;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 1.67;
+  letter-spacing: 1.49px;
+  color: #525252;
+}
+
+#worq-life .section-padding{
+  padding: 10rem 0 6rem 0;
+}
+
+#worq-life form input{
+  border-radius: 5px;
+  border: solid 1px #acacac;
+    padding: 1rem 0;
+}
+
+#worq-life ::-webkit-input-placeholder {
+  font-family: 'Comfortaa', cursive;
+  font-size: 12px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 6.5;
+  letter-spacing: 0.45px;
+  text-align: left;
+  color: #5f5f5f;
+  padding-left: 1rem;
+
+}
+
+#worq-life form{
+padding-top: 2.5rem;
+    /*padding-left: 3rem;*/
+}
+
+#worq-life form button{
+  font-family: 'Comfortaa', cursive;
+    border-radius: 5px;
+  background-color: #ff7014;
+    font-size: 13px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 4.5;
+  letter-spacing: 0.45px;
+  text-align: center;
+  color: #ffffff;
+  padding: 0 20px;
+}
+
+.email-input{
+  margin: 0 1.3rem 0 0;
+  width: 80%;
+}
+
+footer{
+  background-color: #f4f4f4;
+}
+
+footer .section-padding{
+  padding: 4rem 0 3rem 0rem;
+}
+
+footer h5{
+  font-family: 'Comfortaa', cursive;
+  font-size: 14px;
+  font-weight: 500;
+  font-stretch: normal;
+  font-style: normal;
+  line-height: 3.50;
+  letter-spacing: 0.45px;
+  text-align: left;
+  color: #5f5f5f;
+}
+
+footer img{
+  height: 170px;
+}
+
+
+.carousel-inner img {
+    width: 100%;
+    height: 650px;
+}
+
+#custCarousel .carousel-indicators {
+    position: static;
+    margin-top: 20px
+}
+
+#custCarousel .carousel-indicators>li {
+    width: 100px
+}
+
+#custCarousel .carousel-indicators li img {
+    display: block;
+    opacity: 0.5
+}
+
+#custCarousel .carousel-indicators li.active img {
+    opacity: 1
+}
+
+#custCarousel .carousel-indicators li:hover img {
+    opacity: 0.75
+}
+
+.carousel-item img {
+    width: 100%;
+}
+
+.slide-left{
+  height: 50px;
+  width: 50px;
+  position:   relative;
+    right: 8rem;
+  bottom: 2rem;
+
+}
+
+.slide-right{
+  height: 50px;
+  width: 50px;
+  position:   relative;
+  left: 8rem;
+  bottom: 2rem;
+}
+
+.carousel-row{
+      padding: 3rem 0;
+}
